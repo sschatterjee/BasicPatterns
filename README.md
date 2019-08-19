@@ -1,0 +1,1 @@
+Basic Patterns for the first Design Dingos session
